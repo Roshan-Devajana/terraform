@@ -19,3 +19,4 @@ This Terraform configuration provisions:
 * terraform plan 
 * terraform apply 
 ####
+![WhatsApp Image 2025-03-04 at 11 50 22 AM](https://github.com/user-attachments/assets/c3d56fc8-d0b2-4e1a-810c-56c52d5300fd)
